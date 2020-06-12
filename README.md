@@ -5,4 +5,6 @@ This project is word cloud image generation from the raw text data given in a st
 For example,
 I took the text data from the first few lines of 'Artificial Intelligence' encyclopedia and based on their word frequencies the ouptut image generated is shown below
 
-![alt text](https://github.com/chakrikonda/word-cloud/blob/master/generated.png)
+<div style="text-align:center"> 
+  <img src="https://github.com/chakrikonda/word-cloud/blob/master/generated.png" />
+</div>
